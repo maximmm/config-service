@@ -1,2 +1,3 @@
-message: Hey Zwei!
-  - nested: Hi from nested!
+another: 
+    message: "Hi from another!"
+message: "Hey Zwei!"
