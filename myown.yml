@@ -1,2 +1,2 @@
 message: Hey Zwei!
-  nested: Hi from nested!
+  - nested: Hi from nested!
