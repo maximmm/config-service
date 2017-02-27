@@ -1,3 +1,0 @@
-management:
-    port: 8050
-    security.enabled: false
