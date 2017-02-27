@@ -1,8 +1,0 @@
-spring:
-  cloud.config:
-    uri: http://localhost:8060
-    failFast: true
-    
-management:
-    port: 8050
-    security.enabled: false
